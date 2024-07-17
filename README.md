@@ -8,24 +8,24 @@ Brooklyn, New York 11220
 
 **BS, Computer Science, Brooklyn College, CUNY**  
 Graduate: May 2025  
-* Relevant Coursework: Intro to Java Programming, Modern Techniques, Data Structure
+* Relevant Coursework: Modern Techniques, Data Structure, Calculus 1-2, Linear Algebra, Machine Learning, Database
 
 ## Skills
 
-* **Programming Languages:** Java, Python, SQL
-* **Technologies:** GitHub, Git, Microsoft Excel, Google Sheets, IntelliJ, Vs Code, Big Query, MS (Word, PowerPoint)
+* **Programming Languages:** Java, Python, SQL, HTML/CSS, Javascript
+* **Technologies:** GitHub, Git, Big Query
 * **Natural Languages:** Fluent in English (spoken and written) and Chinese (spoken and written)
 * **Interests:** Digital Marketing, Photography, Workout
 * **Extracurricular Activities:** Computer Science Club
 
 ## Experience
 
-**Lucy Vietnamese**  
-*November 2021 - Present*  
-* Cashier, Food Service, Kitchen Staff
-  * Working in various food service companies as a part-time job during my studies.
-  * Providing excellent customer service while quickly executing transactions with accuracy in a stressful and fast-paced environment.
-  * Executing the job and receiving employee of the month multiple times, given a leadership role when the manager is off duty.
+**Headstarter AI Software Engineer Fellow**
+*Remote (July 2024 - Present)*
+* Fellowship
+  * Building 5+ AI Apps and APIs using NextJS, OpenAI, Pinecone, StripeAPI with 98% accuracy as seen by 1000 users
+  * Developed projects from design to deployment with a team consists of 4 engineering fellows using MVC design pattern
+  * Coached by Amazon, Bloomberg, and Capital One engineers on Agile, CI/CD, Git and microservice patterns
 
 **PYE Education Center**  
 *Remote (July 2023 - August 2023)*  
@@ -35,7 +35,13 @@ Graduate: May 2025
   * Adapted project content based on student feedback, resulting in an improved learning experience and increased engagement.
   * Managed project deadlines and ensured timely delivery of completed projects, fostering a productive and efficient work environment.
 
+
 ## Technical Projects
+
+**Python Weather Application with Tkinter**
+* Developed a desktop application using Python and Tkinter.
+* Integrated with a weather API to fetch and display real-time weather data based on user input (state/city).
+* Displayed current temperature, weather condition, and a representative image.
 
 **Discord Weight Tracker Bot Project**
 * Developed a Discord bot using Python and the discord.py library.
@@ -43,14 +49,8 @@ Graduate: May 2025
 * Utilized a CSV file to store user-entered workout data.
 * Added functionality to view, remove, and retrieve workout information and incorporated date logging for each entry.
 
-**Java Bank Account Management System**
-* Account creation with user-defined account numbers and initial balances and deposits and withdrawals with transaction history tracking.
-* Demonstrated proficiency in Java, Object-Oriented Programming (OOP), Git, and GitHub.
-* Overcame technical challenges, including resolving divergent branches and Git conflicts to maintain a clean and efficient codebase.
+## Certificates/Activities
 
-## Activities
+[**CodePath WEB101**](https://drive.google.com/file/d/1VpTVvEWe57VLjqappJA2cQvvGyBWEFeI/view?usp=sharing)
 
-**Soup Kitchen Sunset Park, Brooklyn, NY**  
-*January 2020 – March 2020*  
-* Collaborated with the church to offer additional support when needed.
-* Assisted in providing food services to the homeless population, extending care and support within the kitchen.
+
