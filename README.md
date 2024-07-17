@@ -21,7 +21,7 @@ Graduate: May 2025
 ## Experience
 
 **Headstarter AI Software Engineering**
-*Remote (July 2024 - Present)*
+**Remote (July 2024 - Present)**
 * Fellowship
   * Building 5+ AI Apps and APIs using NextJS, OpenAI, Pinecone, StripeAPI with 98% accuracy as seen by 1000 users
   * Developed projects from design to deployment with a team consists of 4 engineering fellows using MVC design pattern
